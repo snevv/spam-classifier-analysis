@@ -1,0 +1,11 @@
+{
+  "best_params": {
+    "nb__alpha": 0.1,
+    "tfidf__max_features": 7500,
+    "tfidf__ngram_range": [
+      1,
+      1
+    ]
+  },
+  "best_cv_score": 0.9431601788536913
+}
